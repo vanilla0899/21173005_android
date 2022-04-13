@@ -23,3 +23,10 @@
 <img width="" height="" src="./pic/5st_app1.jpg"></img>
 <img width="" height="" src="./pic/5st_app2.jpg"></img>
 
+# 6주차(2022-04-13)
+ - 이미지 스크롤 & 토스트(이미지 가로 세로)
+ - 
+<img width="" height="" src="./pic/6st_app_1.jpg"></img>
+<img width="" height="" src="./pic/6st_app_2.jpg"></img>
+
+
