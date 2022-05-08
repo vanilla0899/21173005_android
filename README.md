@@ -31,6 +31,7 @@
 
 # 9주차(2022-05-08)
  - 메세지 전송 및 바이트 표시(글자 수)
+
 <img width="" height="" src="./pic/9st_app.jpg"></img>
 
 
