@@ -35,4 +35,14 @@
 <img width="" height="" src="./pic/9st_app.jpg"></img>
 
 
+# 10주차(2022-05-17)
+ - 여러 화면 만들고 화면 간 전환하기 (결과 화면)
 
+<img width="" height="" src="./pic/10st_app1.jpg"></img>
+<img width="" height="" src="./pic/10st_app2.jpg"></img>
+<img width="" height="" src="./pic/10st_app3.jpg"></img>
+
+ - 여러 화면 만들고 화면 간 전환하기(소스 코드)
+<img width="" height="" src="./pic/10st_app_code1.jpg"></img>
+<img width="" height="" src="./pic/10st_app_code2.jpg"></img>
+<img width="" height="" src="./pic/10st_app_code3.jpg"></img>
