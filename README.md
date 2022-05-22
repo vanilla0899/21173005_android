@@ -47,3 +47,10 @@
 <img width="" height="" src="./pic/10st_app_code1.jpg"></img>
 <img width="" height="" src="./pic/10st_app_code2.jpg"></img>
 <img width="" height="" src="./pic/10st_app_code3.jpg"></img>
+
+# 11주차(2022-05-22)
+ - 웹으로 요청하기
+
+<img width="" height="" src="./pic/11st_app1.jpg"></img>
+
+
