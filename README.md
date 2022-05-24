@@ -54,3 +54,7 @@
 <img width="" height="" src="./pic/11st_app_5.jpg"></img>
 
 
+# 12주차(2022-05-24)
+ - 웹으로 요청하기+깃허브 연동+ 영화 개수
+
+<img width="" height="" src="./pic/12st_app_test.jpg"></img>
